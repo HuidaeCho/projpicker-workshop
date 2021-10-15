@@ -7,13 +7,13 @@ Software requirements
 * Operating systems: `Linux <https://www.kernel.org/>`_, `macOS <https://www.apple.com/macos/>`_, `Windows <https://www.microsoft.com/windows/>`_
 * `Python 3 <https://www.python.org/>`_
 * `ProjPicker <https://projpicker.readthedocs.io/>`_
+* Optionally for coordinate matching and WKT, `pyproj <https://pypi.org/project/pyproj/>`_
 * Any GIS including `GRASS GIS <https://grass.osgeo.org/>`_, `QGIS <https://qgis.org/>`_, and `ArcGIS <https://www.arcgis.com/>`_
 
 Data requirements
 -----------------
 
-* `Counties_Georgia.zip <https://github.com/HuidaeCho/projpicker-workshop/raw/master/data/Counties_Georgia.zip>`_ (`source <https://arc-garc.opendata.arcgis.com/datasets/dc20713282734a73abe990995de40497_68>`_, `download <https://opendata.arcgis.com/datasets/dc20713282734a73abe990995de40497_68.zip>`_)
-* `KOR_roads.zip <https://github.com/HuidaeCho/projpicker-workshop/raw/master/data/KOR_roads.zip>`_ (courtesy of `Dr. Youngguk Seo <https://facultyweb.kennesaw.edu/yseo2/index.php>`_)
+* `Counties_Georgia_epsg5070.zip <https://github.com/HuidaeCho/projpicker-workshop/raw/master/data/Counties_Georgia_epsg5070.zip>`_ (`source <https://arc-garc.opendata.arcgis.com/datasets/dc20713282734a73abe990995de40497_68>`_)
 
 Python installation
 -------------------
@@ -37,7 +37,14 @@ ProjPicker installation
 
 Installing `ProjPicker`_ from `its PyPI page <https://pypi.org/project/projpicker/>`_ is just one command line away.
 
-1. Expand the Windows menu or press the Windows key
+1. Hit the Windows key
 2. Type ``cmd`` and hit enter
 3. In the command window, type ``pip install projpicker``
 4. Create a shortcut for ``C:\Python39\Scripts\projpicker.exe -g``
+
+pyproj installation
+-------------------
+
+Install `pyproj`_ for coordinate matching and WKT.
+
+1. From the same command window above, type ``pip install pyproj``

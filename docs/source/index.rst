@@ -4,6 +4,7 @@
 
    introduction
    installation
+   first-look
 
 Spatial query of coordinate reference systems
 =============================================
