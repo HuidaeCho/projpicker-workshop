@@ -82,6 +82,8 @@ References
 
 `ProjPicker GitHub repository <https://github.com/HuidaeCho/projpicker>`_
 
+`ProjPicker PyPI page <https://pypi.org/project/projpicker/>`_
+
 `ProjPicker documentation <https://projpicker.readthedocs.io/>`_
 
 `ProjPicker Web <https://projpicker.pythonanywhere.com/>`_
