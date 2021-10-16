@@ -13,7 +13,7 @@ Software requirements
 Data requirements
 -----------------
 
-* `Counties_Georgia_epsg5070.zip <https://github.com/HuidaeCho/projpicker-workshop/raw/master/data/Counties_Georgia_epsg5070.zip>`_ (`source <https://arc-garc.opendata.arcgis.com/datasets/dc20713282734a73abe990995de40497_68>`_)
+* `Counties_Georgia_epsg5070.zip <https://github.com/HuidaeCho/projpicker-workshop/raw/master/data/Counties_Georgia_epsg5070.zip>`_ (invalid geometries in `source <https://arc-garc.opendata.arcgis.com/datasets/dc20713282734a73abe990995de40497_68>`_ fixed and reprojected to `EPSG:5070 <https://epsg.io/5070>`_)
 
 Python installation
 -------------------

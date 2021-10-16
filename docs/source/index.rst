@@ -34,4 +34,4 @@ Requirements for the attendees
 ------------------------------
 
 * Basic GIS knowledge is recommended including coordinate reference systems, geospatial data formats, etc.
-* A computer with Windows, macOS, or Linux
+* A computer running Linux, macOS, or Windows
