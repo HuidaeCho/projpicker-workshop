@@ -2,4 +2,4 @@
 
 * [Workshop manual](https://workshop.isnew.info/projpicker/)
 
-This workshop manual is a work in progress.
+This [ProjPicker](https://github.com/HuidaeCho/projpicker) workshop manual is a work in progress.
